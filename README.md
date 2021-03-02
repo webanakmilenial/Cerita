@@ -69,7 +69,7 @@ header .highlight, header .current a{
 }
 
 .highlight{
- background-color:#35424a;
+ background-color:#35424a;}
 
 header a:hover{
   color:#cccccc;

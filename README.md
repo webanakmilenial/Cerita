@@ -68,6 +68,9 @@ header .highlight, header .current a{
   font-weight:bold;
 }
 
+.highlight{
+ background-color:#35424a;
+
 header a:hover{
   color:#cccccc;
   font-weight:bold;
@@ -299,6 +302,8 @@ header a:hover{
    .contack a{
       font-size:8px;
      margin-left:-8px;}
+   .copy{
+    font-size:9px;}
   
   
  

@@ -196,6 +196,7 @@ header a:hover{
 .what{
 				text-align:center;
 				color:white;
+                                margin-left:25px;
 				
 }
 
@@ -285,6 +286,15 @@ header a:hover{
   				display:block;
   				
   }
+  .contack{
+    padding-left:30px;
+    padding-right:30px;
+  }
+
+   .what{
+     font-size:10px;}
+   .contack a{
+      font-size:8px;
   
   
  

@@ -292,9 +292,10 @@ header a:hover{
   }
 
    .what{
-     font-size:10px;}
+     font-size:7px;
+     margin-left:-7px;}
    .contack a{
-      font-size:8px;
+      font-size:8px;}
   
   
  

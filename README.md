@@ -291,13 +291,14 @@ header a:hover{
     padding-right:30px;
   }
    .contack ul li{
-       margin-left:-7px;}
+       margin-left:-9px;}
 
    .what{
      font-size:7px;
-     margin-left:-3px;}
+     margin-left:px;}
    .contack a{
-      font-size:8px;}
+      font-size:8px;
+     margin-left:-8px;}
   
   
  
@@ -364,7 +365,7 @@ header a:hover{
 				</script>
 				<br><br><br>
 				<div class=" contack">
-								<h4 class="what">Account</h4>
+								<h4 class="what">Account Admin</h4>
 								<ul>
 												<li><a href="https://www.facebook.com/profile.php?id=100011548591895">Facebook</a></li>
 												<li><a href="https://wa.me/message/ZVUGSNMOI4ZVN1">Whatsapp</a></li>

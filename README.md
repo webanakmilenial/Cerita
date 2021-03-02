@@ -165,6 +165,7 @@ header a:hover{
 				border:none;
 				background:none;
 				color:white;
+                                font-size:10px;
 				font-weight:bold;
 				
 }

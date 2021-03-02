@@ -245,6 +245,9 @@ header a:hover{
   header{
     padding-bottom:20px;
   }
+  header nav{
+     margin-left:-30px;
+}
   
   .gambar{
   				width:95%;

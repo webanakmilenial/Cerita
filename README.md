@@ -1,5 +1,7 @@
 <html>
   <head>
+     
+<script data-ad-client="ca-pub-8570471038894942" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <meta charset="utf-8">
     <meta name="description" content="Affordable and professional web design">
 	  <meta name="keywords" content="web design, affordable web design, professional web design">
